@@ -36,19 +36,4 @@ This project demonstrates how data visualization can simplify and reveal insight
 - Python data visualization skills  
 - Ability to communicate data-driven stories clearly  
 
----
 
-📁 **Notebook Preview:**  
-> _Click [here](./datavisualizationicecreamratings.ipynb) to view the full Jupyter Notebook._
-
-📊 **Next Steps:**
-- Integrate dashboard into a Streamlit app or Power BI  
-- Compare ice cream ratings with pricing or availability data  
-- Use NLP to analyze review sentiments (if text reviews available)
-
----
-
-📫 **Connect with me:**
-- [Portfolio Website](https://yourportfolio.com)  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [GitHub](https://github.com/yourusername)
